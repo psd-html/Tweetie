@@ -7,7 +7,7 @@ Afficher les Tweets sur votre site
 Page d'administration du plugin
 --------------
 
-![Alt text](http://nextum.fr/tweetie_admin.png)
+![Alt text](http://nextum.fr/tweetie.png)
 
 Pour afficher le plugin:
 
