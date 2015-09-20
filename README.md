@@ -6,6 +6,8 @@ Afficher les Tweets sur votre site
 
 ![Alt text](http://nextum.fr/tweetie.png)
 
+![Alt text](http://nextum.fr/tweetie_admin.png)
+
 Pour afficher le plugin:
 
 <?php eval($plxShow->callHook('Tweetie')); ?>
