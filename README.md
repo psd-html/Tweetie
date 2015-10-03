@@ -4,6 +4,10 @@ Tweetie plugin pour PluXml
 Afficher les Tweets sur votre site
 
 
+![Alt text](http://nextum.fr/tweetie.png)
+
+
+
 Page d'administration du plugin
 --------------
 
