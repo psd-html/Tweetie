@@ -40,7 +40,7 @@ class Tweetie extends plxPlugin {
         <script src="<?php echo PLX_PLUGINS ?>Tweetie/app/tweetie.js"></script>
 
         <script>
-                $(document).ready(function() {
+                $(document).ready(function($) {
                 $('#tweecool').tweecool({
                     // Your twitter username
                     username : '<?php echo $this->getParam('username');?>',
